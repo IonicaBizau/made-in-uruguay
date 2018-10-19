@@ -56,7 +56,8 @@
           "[Clojure](#clojure)",
           "[Go](#go)",
           "[Lua](#lua)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -1405,6 +1406,33 @@
               "[@javiercamacho](https://github.com/javiercamacho)/[**PatoCeleste**](https://github.com/javiercamacho/PatoCeleste)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@bcattaneo](https://github.com/bcattaneo)/[**Facebook.pl**](https://github.com/bcattaneo/Facebook.pl)",
+              "This is a simple perl script that tries to collect functions for using Facebook without Graph API.",
+              ""
+            ],
+            [
+              "2",
+              "[@gbarco](https://github.com/gbarco)/[**Net-Amazon-Glacier**](https://github.com/gbarco/Net-Amazon-Glacier)",
+              "Net::Amazon::Glacier official repository for the Perl implementation of Amazon Glacier API 2012-06-01. Originally written by Tim Nordenfur.",
+              "[:arrow_upper_right:](http://search.cpan.org/~tim/Net-Amazon-Glacier/)"
             ]
           ]
         }
