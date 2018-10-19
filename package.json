@@ -52,7 +52,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -1142,6 +1143,99 @@
               "2",
               "[@pabloxid](https://github.com/pabloxid)/[**Segduino**](https://github.com/pabloxid/Segduino)",
               "Arduino Segway-like robot (self-balanced robot) using MPU600 IMU sensor and Dynamixel RX24 servo motors.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "64",
+              "[@jpmonettas](https://github.com/jpmonettas)/[**inspectable**](https://github.com/jpmonettas/inspectable)",
+              "In the spec table",
+              ""
+            ],
+            [
+              "17",
+              "[@guilespi](https://github.com/guilespi)/[**clj-zipkin**](https://github.com/guilespi/clj-zipkin)",
+              "Adds zipkin tracing instrumentation for Clojure applications",
+              ""
+            ],
+            [
+              "17",
+              "[@jpmonettas](https://github.com/jpmonettas)/[**magic-sheet**](https://github.com/jpmonettas/magic-sheet)",
+              "Create magic sheets to improve your Clojure[Script] repl experience.",
+              ""
+            ],
+            [
+              "14",
+              "[@jpmonettas](https://github.com/jpmonettas)/[**clj-tree-layout**](https://github.com/jpmonettas/clj-tree-layout)",
+              "A library for laying out tree nodes in 2D space for Clojure and ClojureScript.",
+              ""
+            ],
+            [
+              "11",
+              "[@guilespi](https://github.com/guilespi)/[**clj-asterisk**](https://github.com/guilespi/clj-asterisk)",
+              "Clojure bindings for Asterisk Manager API",
+              ""
+            ],
+            [
+              "10",
+              "[@jpmonettas](https://github.com/jpmonettas)/[**pretty-spec**](https://github.com/jpmonettas/pretty-spec)",
+              "Pretty print clojure.spec forms",
+              ""
+            ],
+            [
+              "8",
+              "[@jpmonettas](https://github.com/jpmonettas)/[**reagent-flowgraph**](https://github.com/jpmonettas/reagent-flowgraph)",
+              "A reagent component for laying out tree nodes in 2D space.",
+              ""
+            ],
+            [
+              "8",
+              "[@jpmonettas](https://github.com/jpmonettas)/[**smart-view**](https://github.com/jpmonettas/smart-view)",
+              "Visualize and explore your solidity smart contracts.",
+              ""
+            ],
+            [
+              "7",
+              "[@guilespi](https://github.com/guilespi)/[**time-series-storage**](https://github.com/guilespi/time-series-storage)",
+              "To store and retrieve time series counters, average, histograms, etc. Support for Postgres, Cassandra, others.",
+              ""
+            ],
+            [
+              "4",
+              "[@fbrubacher](https://github.com/fbrubacher)/[**hastie-clojure**](https://github.com/fbrubacher/hastie-clojure)",
+              "Playground for machine learning",
+              ""
+            ],
+            [
+              "3",
+              "[@guilespi](https://github.com/guilespi)/[**fsm-test-check**](https://github.com/guilespi/fsm-test-check)",
+              "Finite State Machine testing with Clojure test.check",
+              ""
+            ],
+            [
+              "3",
+              "[@jpmonettas](https://github.com/jpmonettas)/[**re-mount-module-brow…**](https://github.com/jpmonettas/re-mount-module-browser)",
+              "A re-frame applications browser",
+              ""
+            ],
+            [
+              "2",
+              "[@kernelp4nic](https://github.com/kernelp4nic)/[**om-datepicker**](https://github.com/kernelp4nic/om-datepicker)",
+              "An Om (ClojureScript) datepicker component, based on Stefan Petre's (of eyecon.ro) for Twitter Bootstrap.",
               ""
             ]
           ]
