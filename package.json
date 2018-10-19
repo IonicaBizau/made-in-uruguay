@@ -57,7 +57,8 @@
           "[Go](#go)",
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1433,6 +1434,243 @@
               "[@gbarco](https://github.com/gbarco)/[**Net-Amazon-Glacier**](https://github.com/gbarco/Net-Amazon-Glacier)",
               "Net::Amazon::Glacier official repository for the Perl implementation of Amazon Glacier API 2012-06-01. Originally written by Tim Nordenfur.",
               "[:arrow_upper_right:](http://search.cpan.org/~tim/Net-Amazon-Glacier/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "640",
+              "[@andres-montanez](https://github.com/andres-montanez)/[**Magallanes**](https://github.com/andres-montanez/Magallanes)",
+              "The PHP Deployment Tool",
+              "[:arrow_upper_right:](https://magephp.com)"
+            ],
+            [
+              "35",
+              "[@skydiver](https://github.com/skydiver)/[**laravel-materialize-…**](https://github.com/skydiver/laravel-materialize-css)",
+              "Materialize CSS Framework for Laravel 5 ",
+              ""
+            ],
+            [
+              "33",
+              "[@skydiver](https://github.com/skydiver)/[**laravel-route-blocke…**](https://github.com/skydiver/laravel-route-blocker)",
+              "Block routes by IP",
+              ""
+            ],
+            [
+              "29",
+              "[@marcanuy](https://github.com/marcanuy)/[**popularity**](https://github.com/marcanuy/popularity)",
+              "A Laravel 4 package for tracking popular elements of a website in a time frame",
+              ""
+            ],
+            [
+              "28",
+              "[@iambrosi](https://github.com/iambrosi)/[**IsmaAmbrosiGenerator…**](https://github.com/iambrosi/IsmaAmbrosiGeneratorBundle)",
+              "Generates Symfony2 documents, forms and CRUD for MongoDB documents",
+              ""
+            ],
+            [
+              "27",
+              "[@skydiver](https://github.com/skydiver)/[**october-plugin-forms**](https://github.com/skydiver/october-plugin-forms)",
+              "",
+              "[:arrow_upper_right:](https://octobercms.com/plugin/martin-forms)"
+            ],
+            [
+              "15",
+              "[@centerax](https://github.com/centerax)/[**codeigniter-magento-…**](https://github.com/centerax/codeigniter-magento-api)",
+              "CodeIgniter Magento API Spark",
+              ""
+            ],
+            [
+              "14",
+              "[@mpaleo](https://github.com/mpaleo)/[**scaffolder**](https://github.com/mpaleo/scaffolder)",
+              "Scaffold out a laravel application. Craft your next application easier and faster",
+              "[:arrow_upper_right:](https://mpaleo.github.io/scaffolder)"
+            ],
+            [
+              "10",
+              "[@abr4xas](https://github.com/abr4xas)/[**instapago**](https://github.com/abr4xas/instapago)",
+              "Plugin instapago para woocommerce.",
+              "[:arrow_upper_right:](https://wordpress.org/plugins/instapago/)"
+            ],
+            [
+              "10",
+              "[@abr4xas](https://github.com/abr4xas)/[**php-instapago**](https://github.com/abr4xas/php-instapago)",
+              "Librería Instapago para PHP",
+              "[:arrow_upper_right:](https://packagist.org/packages/instapago/instapago)"
+            ],
+            [
+              "9",
+              "[@skydiver](https://github.com/skydiver)/[**october-plugin-ssolo…**](https://github.com/skydiver/october-plugin-ssologin)",
+              "October Backend SSO Login",
+              ""
+            ],
+            [
+              "8",
+              "[@skydiver](https://github.com/skydiver)/[**laravel-flysystem-b2**](https://github.com/skydiver/laravel-flysystem-b2)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@centerax](https://github.com/centerax)/[**pyrocms-mailchimp**](https://github.com/centerax/pyrocms-mailchimp)",
+              "MailChimp integration for PyroCMS",
+              ""
+            ],
+            [
+              "7",
+              "[@skydiver](https://github.com/skydiver)/[**october-plugin-ssbut…**](https://github.com/skydiver/october-plugin-ssbuttons)",
+              "Social Sharing Buttons for OctoberCMS",
+              "[:arrow_upper_right:](https://octobercms.com/plugin/martin-ssbuttons)"
+            ],
+            [
+              "6",
+              "[@andres-montanez](https://github.com/andres-montanez)/[**RecommendationsBundl…**](https://github.com/andres-montanez/RecommendationsBundle)",
+              "Recommendations Engine with MongoDB",
+              ""
+            ],
+            [
+              "5",
+              "[@abr4xas](https://github.com/abr4xas)/[**vagrant-config**](https://github.com/abr4xas/vagrant-config)",
+              "My vagrant config",
+              "[:arrow_upper_right:](http://blog.abr4xas.org)"
+            ],
+            [
+              "5",
+              "[@skydiver](https://github.com/skydiver)/[**october-plugin-gitre…**](https://github.com/skydiver/october-plugin-gitreposmanager)",
+              "Keep track of your Git repos from OctoberCMS backend",
+              ""
+            ],
+            [
+              "5",
+              "[@centerax](https://github.com/centerax)/[**codeigniter-sage-pay…**](https://github.com/centerax/codeigniter-sage-pay-direct)",
+              "CodeIgniter Sage Pay DIRECT integration library",
+              ""
+            ],
+            [
+              "4",
+              "[@skydiver](https://github.com/skydiver)/[**october-plugin-blogg…**](https://github.com/skydiver/october-plugin-bloggallery)",
+              "Blog + RJ Gallery for OctoberCMS",
+              ""
+            ],
+            [
+              "4",
+              "[@mpaleo](https://github.com/mpaleo)/[**scaffolder-theme-mat…**](https://github.com/mpaleo/scaffolder-theme-material)",
+              "Laravel material theme package for mPaleo/scaffolder",
+              ""
+            ],
+            [
+              "3",
+              "[@mpaleo](https://github.com/mpaleo)/[**scaffolder-extension**](https://github.com/mpaleo/scaffolder-extension)",
+              "Basic example for getting started with Laravel Scaffolder extensions",
+              ""
+            ],
+            [
+              "3",
+              "[@p1r0](https://github.com/p1r0)/[**BsBuilder**](https://github.com/p1r0/BsBuilder)",
+              "Build system for PHP built in PHP",
+              "[:arrow_upper_right:](http://bsbuilder.binarysputnik.com/)"
+            ],
+            [
+              "3",
+              "[@mpaleo](https://github.com/mpaleo)/[**view-tags**](https://github.com/mpaleo/view-tags)",
+              "Simple way to tag your Laravel views",
+              "[:arrow_upper_right:](https://mpaleo.github.io/view-tags)"
+            ],
+            [
+              "3",
+              "[@skydiver](https://github.com/skydiver)/[**october-plugin-clius…**](https://github.com/skydiver/october-plugin-cliusersmanagement)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@AV4TAr](https://github.com/AV4TAr)/[**Mysql-Meetup-sphinxs…**](https://github.com/AV4TAr/Mysql-Meetup-sphinxsearch)",
+              "Charla sobre sphinxsearch para la primer meetup de mysql en UY.",
+              ""
+            ],
+            [
+              "3",
+              "[@AV4TAr](https://github.com/AV4TAr)/[**Twitter-stream-consu…**](https://github.com/AV4TAr/Twitter-stream-consumer)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@p1r0](https://github.com/p1r0)/[**MuffinPHP**](https://github.com/p1r0/MuffinPHP)",
+              "A light weight MVC PHP Framework",
+              "[:arrow_upper_right:](http://muffinphp.com)"
+            ],
+            [
+              "3",
+              "[@mpaleo](https://github.com/mpaleo)/[**scaffolder-support**](https://github.com/mpaleo/scaffolder-support)",
+              "Laravel Scaffolder support component",
+              ""
+            ],
+            [
+              "3",
+              "[@skydiver](https://github.com/skydiver)/[**october-plugin-backu…**](https://github.com/skydiver/october-plugin-backups)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@skydiver](https://github.com/skydiver)/[**october-plugin-admin…**](https://github.com/skydiver/october-plugin-adminer)",
+              "Adminer plugin for OctoberCMS",
+              ""
+            ],
+            [
+              "3",
+              "[@Vextil](https://github.com/Vextil)/[**API_Taringa**](https://github.com/Vextil/API_Taringa)",
+              "Una API de datos para la pagina Taringa.net",
+              ""
+            ],
+            [
+              "2",
+              "[@abr4xas](https://github.com/abr4xas)/[**utils**](https://github.com/abr4xas/utils)",
+              "Paquete de uso personal con cosas que uso día a día... ",
+              "[:arrow_upper_right:](https://packagist.org/packages/abr4xas/utils)"
+            ],
+            [
+              "2",
+              "[@luchothoma](https://github.com/luchothoma)/[**salem**](https://github.com/luchothoma/salem)",
+              "SalemPhp a PHP framework fast, simple and easy to learn.",
+              ""
+            ],
+            [
+              "2",
+              "[@skydiver](https://github.com/skydiver)/[**october-plugin-route…**](https://github.com/skydiver/october-plugin-routes)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mreperger](https://github.com/mreperger)/[**eirene**](https://github.com/mreperger/eirene)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mreperger](https://github.com/mreperger)/[**Copa-Am-rica-2011**](https://github.com/mreperger/Copa-Am-rica-2011)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@skydiver](https://github.com/skydiver)/[**docker-octobercms**](https://github.com/skydiver/docker-octobercms)",
+              "Docker development container for OctoberCMS",
+              ""
             ]
           ]
         }
