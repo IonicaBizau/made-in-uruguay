@@ -51,7 +51,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -1096,6 +1097,51 @@
               "12",
               "[@haldos](https://github.com/haldos)/[**edges**](https://github.com/haldos/edges)",
               "Implementation of some classical edge detection algorithms; Roberts, Prewitt, Sobel, Haralick and Marr-Hildreth.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "43",
+              "[@juan-cardelino](https://github.com/juan-cardelino)/[**stasm**](https://github.com/juan-cardelino/stasm)",
+              "build instructions and scripts for STASM 4",
+              ""
+            ],
+            [
+              "5",
+              "[@matinas](https://github.com/matinas)/[**openvrsimplexamples**](https://github.com/matinas/openvrsimplexamples)",
+              "Simple OpenVR tracking example using the HTC Vive as part of the OpenVR tutorials on The Ghost Howls Virtual Reality blog: https://skarredghost.com/",
+              ""
+            ],
+            [
+              "4",
+              "[@ichramm](https://github.com/ichramm)/[**Windows7JumpListSupp…**](https://github.com/ichramm/Windows7JumpListSupport)",
+              "Windows 7 Jump List Support for Visual Studio 2008",
+              "[:arrow_upper_right:](http://goo.gl/gYz8zs)"
+            ],
+            [
+              "3",
+              "[@pabloxid](https://github.com/pabloxid)/[**AX12**](https://github.com/pabloxid/AX12)",
+              "Dynamixel Arduino Library",
+              "[:arrow_upper_right:](http://www.pablogindel.com/2010/01/biblioteca-de-arduino-para-ax-12/)"
+            ],
+            [
+              "2",
+              "[@pabloxid](https://github.com/pabloxid)/[**Segduino**](https://github.com/pabloxid/Segduino)",
+              "Arduino Segway-like robot (self-balanced robot) using MPU600 IMU sensor and Dynamixel RX24 servo motors.",
               ""
             ]
           ]
