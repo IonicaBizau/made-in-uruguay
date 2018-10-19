@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[Clojure](#clojure)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -1258,6 +1259,75 @@
               "2",
               "[@gkristic](https://github.com/gkristic)/[**tech-meetup-2014**](https://github.com/gkristic/tech-meetup-2014)",
               "Basis for the TechMeetup 2014 workshop on Go",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "98",
+              "[@MNoya](https://github.com/MNoya)/[**DotaCraft**](https://github.com/MNoya/DotaCraft)",
+              "Bringing back the legendary RTS game from which Dota was created",
+              "[:arrow_upper_right:](http://www.playdotacraft.com)"
+            ],
+            [
+              "43",
+              "[@MNoya](https://github.com/MNoya)/[**Element-TD**](https://github.com/MNoya/Element-TD)",
+              "Element Tower Defense",
+              "[:arrow_upper_right:](http://www.eletd.com)"
+            ],
+            [
+              "23",
+              "[@MNoya](https://github.com/MNoya)/[**Warchasers**](https://github.com/MNoya/Warchasers)",
+              "A remake of the classic Warcraft 3 Warchasers mod in Dota 2",
+              "[:arrow_upper_right:](http://steamcommunity.com/sharedfiles/filedetails/?id=300989405)"
+            ],
+            [
+              "19",
+              "[@MNoya](https://github.com/MNoya)/[**BuildingHelper**](https://github.com/MNoya/BuildingHelper)",
+              "Library for RTS & TD Dota Custom Games",
+              ""
+            ],
+            [
+              "15",
+              "[@rsisto](https://github.com/rsisto)/[**luaGpio**](https://github.com/rsisto/luaGpio)",
+              "Simple lua file for GPIO control in embedded systems",
+              ""
+            ],
+            [
+              "11",
+              "[@MNoya](https://github.com/MNoya)/[**PMP**](https://github.com/MNoya/PMP)",
+              "Pimp My Peon",
+              "[:arrow_upper_right:](http://steamcommunity.com/sharedfiles/filedetails/?id=513926896)"
+            ],
+            [
+              "7",
+              "[@MNoya](https://github.com/MNoya)/[**FootmenFrenzy**](https://github.com/MNoya/FootmenFrenzy)",
+              "A remake of the classic Warcraft 3 Footmen Frenzy mod in Dota 2",
+              "[:arrow_upper_right:](http://steamcommunity.com/sharedfiles/filedetails/?id=298904487)"
+            ],
+            [
+              "5",
+              "[@MNoya](https://github.com/MNoya)/[**CourierMadness**](https://github.com/MNoya/CourierMadness)",
+              "Single Player Minigame inspired by The Death Sheep",
+              "[:arrow_upper_right:](http://steamcommunity.com/sharedfiles/filedetails/?id=402418945)"
+            ],
+            [
+              "4",
+              "[@rsisto](https://github.com/rsisto)/[**luaRoboEmb**](https://github.com/rsisto/luaRoboEmb)",
+              "Lua library for embedded robotics.",
               ""
             ]
           ]
