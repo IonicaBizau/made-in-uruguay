@@ -63,7 +63,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -2494,6 +2495,39 @@
               "2",
               "[@guzmanbraso](https://github.com/guzmanbraso)/[**remote-wireshark**](https://github.com/guzmanbraso/remote-wireshark)",
               "Simple script to run wireshark locally getting traffic dump from a remote host through ssh + tcpdump.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "13",
+              "[@swift-montevideo](https://github.com/swift-montevideo)/[**HelloZewo**](https://github.com/swift-montevideo/HelloZewo)",
+              "Server Side Swift example using Zewo components",
+              ""
+            ],
+            [
+              "2",
+              "[@sebnun](https://github.com/sebnun)/[**musical**](https://github.com/sebnun/musical)",
+              "iOS app to listen to Youtube videos in the background and discover music",
+              ""
+            ],
+            [
+              "2",
+              "[@JuanPabloBoero](https://github.com/JuanPabloBoero)/[**JBTimer**](https://github.com/JuanPabloBoero/JBTimer)",
+              "Swift Grand Central Dispatch Repeating Timer",
               ""
             ]
           ]
