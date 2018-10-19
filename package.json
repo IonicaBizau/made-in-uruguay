@@ -62,7 +62,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -2466,6 +2467,33 @@
               "2",
               "[@netlabs-foundation](https://github.com/netlabs-foundation)/[**luthier**](https://github.com/netlabs-foundation/luthier)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "151",
+              "[@atarallo](https://github.com/atarallo)/[**TECMINT_MONITOR**](https://github.com/atarallo/TECMINT_MONITOR)",
+              "A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM Usage in Linux. Originally published on http://www.tecmint.com",
+              ""
+            ],
+            [
+              "2",
+              "[@guzmanbraso](https://github.com/guzmanbraso)/[**remote-wireshark**](https://github.com/guzmanbraso/remote-wireshark)",
+              "Simple script to run wireshark locally getting traffic dump from a remote host through ssh + tcpdump.",
               ""
             ]
           ]
