@@ -49,7 +49,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -1016,6 +1017,63 @@
               "2",
               "[@GermanAsmus](https://github.com/GermanAsmus)/[**ProyectoTaller**](https://github.com/GermanAsmus/ProyectoTaller)",
               "Proyecto de Taller de Programacion",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "21",
+              "[@guillecura](https://github.com/guillecura)/[**constructivism**](https://github.com/guillecura/constructivism)",
+              "Constructivism Ghost theme http://guillecura.co/",
+              ""
+            ],
+            [
+              "6",
+              "[@fernandoportal](https://github.com/fernandoportal)/[**rails4-seed**](https://github.com/fernandoportal/rails4-seed)",
+              "Rails 4 seed with omniauth(facebook, google+ and twitter), twitter bootstrap 3 integration and i18n setup ",
+              ""
+            ],
+            [
+              "4",
+              "[@alotropico](https://github.com/alotropico)/[**now-open.jquery**](https://github.com/alotropico/now-open.jquery)",
+              "Lightweight plugin to determine if a the current times falls within a given set of times and days.",
+              ""
+            ],
+            [
+              "4",
+              "[@alotropico](https://github.com/alotropico)/[**advanced-autocomplet…**](https://github.com/alotropico/advanced-autocomplete.jquery)",
+              "Add filter and autocomplete functionality to inputs, with or without the use of ajax, with or without the need for the user to start searching for a therm before showing results.",
+              ""
+            ],
+            [
+              "4",
+              "[@guillecura](https://github.com/guillecura)/[**hi-contrast**](https://github.com/guillecura/hi-contrast)",
+              "Hi Contrast Ghost theme",
+              "[:arrow_upper_right:](http://guillecura.co/)"
+            ],
+            [
+              "2",
+              "[@AlexanderElert](https://github.com/AlexanderElert)/[**Jurassic-World-JsGam…**](https://github.com/AlexanderElert/Jurassic-World-JsGame)",
+              "A basic example of a game using Javascript.",
+              ""
+            ],
+            [
+              "2",
+              "[@guillecura](https://github.com/guillecura)/[**double-meat-hamburge…**](https://github.com/guillecura/double-meat-hamburger-icon)",
+              "Double Meat Hamburger animated SVG icon",
               ""
             ]
           ]
