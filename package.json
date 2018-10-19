@@ -59,7 +59,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -2022,6 +2023,69 @@
               "2",
               "[@titoBouzout](https://github.com/titoBouzout)/[**PreventFakeClones**](https://github.com/titoBouzout/PreventFakeClones)",
               "Prevents opening the same file twice, if does not share a buffer (ie is not a clone/duplicate or cloned view/tab/file).",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "36",
+              "[@jumanbar](https://github.com/jumanbar)/[**Curso-R**](https://github.com/jumanbar/Curso-R)",
+              "Repositorio con los scripts y otros archivos varios que usamos para el curso IMSER.",
+              "[:arrow_upper_right:](http://eva.universidad.edu.uy/course/view.php?id=1454)"
+            ],
+            [
+              "7",
+              "[@d4tagirl](https://github.com/d4tagirl)/[**John-Oliver-sentimen…**](https://github.com/d4tagirl/John-Oliver-sentiment-analysis)",
+              "Code for my blog post about text mining Last Week Tonight comments",
+              "[:arrow_upper_right:](https://dv.uy/lwt)"
+            ],
+            [
+              "4",
+              "[@iferres](https://github.com/iferres)/[**MLSTar**](https://github.com/iferres/MLSTar)",
+              "An easy way of MLSTyping your genomes in R.",
+              ""
+            ],
+            [
+              "4",
+              "[@d4tagirl](https://github.com/d4tagirl)/[**uruguayan_parliament…**](https://github.com/d4tagirl/uruguayan_parliamentary_session_diary)",
+              "Code for my blog post about text mining uruguayan Parliamentary sessions 🇺🇾",
+              "[:arrow_upper_right:](https://dv.uy/parlamento)"
+            ],
+            [
+              "3",
+              "[@guzmanlopez](https://github.com/guzmanlopez)/[**IntroductionToGeosta…**](https://github.com/guzmanlopez/IntroductionToGeostatistics)",
+              "Mandatory work for Introduction to Geostatistics course on University of Buenos Aires (UBA)",
+              ""
+            ],
+            [
+              "3",
+              "[@d4tagirl](https://github.com/d4tagirl)/[**R-Ladies-growth-maps**](https://github.com/d4tagirl/R-Ladies-growth-maps)",
+              "Code for my R-Ladies gif, used in my blog post",
+              "[:arrow_upper_right:](https://dv.uy/rladies-growth)"
+            ],
+            [
+              "3",
+              "[@d4tagirl](https://github.com/d4tagirl)/[**uRuguayanMap**](https://github.com/d4tagirl/uRuguayanMap)",
+              "🗺 uruguayan watercolor map 🎨 🇺🇾",
+              ""
+            ],
+            [
+              "3",
+              "[@natydasilva](https://github.com/natydasilva)/[**metawRite**](https://github.com/natydasilva/metawRite)",
+              "",
               ""
             ]
           ]
