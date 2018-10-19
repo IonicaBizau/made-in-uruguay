@@ -53,7 +53,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[Go](#go)"
         ]
       },
       {
@@ -1236,6 +1237,27 @@
               "2",
               "[@kernelp4nic](https://github.com/kernelp4nic)/[**om-datepicker**](https://github.com/kernelp4nic/om-datepicker)",
               "An Om (ClojureScript) datepicker component, based on Stefan Petre's (of eyecon.ro) for Twitter Bootstrap.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@gkristic](https://github.com/gkristic)/[**tech-meetup-2014**](https://github.com/gkristic/tech-meetup-2014)",
+              "Basis for the TechMeetup 2014 workshop on Go",
               ""
             ]
           ]
