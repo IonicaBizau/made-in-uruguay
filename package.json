@@ -60,7 +60,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -2086,6 +2087,357 @@
               "3",
               "[@natydasilva](https://github.com/natydasilva)/[**metawRite**](https://github.com/natydasilva/metawRite)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1035",
+              "[@elcuervo](https://github.com/elcuervo)/[**airplay**](https://github.com/elcuervo/airplay)",
+              "Airplay bindings to Ruby",
+              ""
+            ],
+            [
+              "641",
+              "[@elcuervo](https://github.com/elcuervo)/[**minuteman**](https://github.com/elcuervo/minuteman)",
+              "Fast analytics using Redis",
+              "[:arrow_upper_right:](elcuervo.github.com/minuteman)"
+            ],
+            [
+              "274",
+              "[@zevarito](https://github.com/zevarito)/[**mixpanel**](https://github.com/zevarito/mixpanel)",
+              "Simple lib to track events in Mixpanel service. It can be used in any rack based framework.",
+              ""
+            ],
+            [
+              "142",
+              "[@dcadenas](https://github.com/dcadenas)/[**rubydeps**](https://github.com/dcadenas/rubydeps)",
+              "A tool to create class dependency graphs from test suites",
+              ""
+            ],
+            [
+              "135",
+              "[@pote](https://github.com/pote)/[**disc**](https://github.com/pote/disc)",
+              "Simple Disque-powered Ruby Jobs",
+              ""
+            ],
+            [
+              "65",
+              "[@pote](https://github.com/pote)/[**planet.rb**](https://github.com/pote/planet.rb)",
+              "A feed aggregator implementation intended to be used with Octopress",
+              ""
+            ],
+            [
+              "64",
+              "[@elcuervo](https://github.com/elcuervo)/[**minuteman-rails**](https://github.com/elcuervo/minuteman-rails)",
+              "Use Minuteman easily in your Rails app",
+              ""
+            ],
+            [
+              "59",
+              "[@pote](https://github.com/pote)/[**hashifiable**](https://github.com/pote/hashifiable)",
+              "Dead simple hash representation declarations.",
+              ""
+            ],
+            [
+              "44",
+              "[@zevarito](https://github.com/zevarito)/[**route_dog**](https://github.com/zevarito/route_dog)",
+              "Watch and Notify your not tested routes of a RoR Application",
+              ""
+            ],
+            [
+              "42",
+              "[@dcadenas](https://github.com/dcadenas)/[**preforker**](https://github.com/dcadenas/preforker)",
+              "A gem to easily create prefork servers.",
+              "[:arrow_upper_right:](http://github.com/dcadenas/preforker)"
+            ],
+            [
+              "30",
+              "[@dcadenas](https://github.com/dcadenas)/[**state_pattern**](https://github.com/dcadenas/state_pattern)",
+              "A Ruby state pattern implementation",
+              ""
+            ],
+            [
+              "23",
+              "[@dcadenas](https://github.com/dcadenas)/[**gmail_sender**](https://github.com/dcadenas/gmail_sender)",
+              "A simple gem to send email through gmail",
+              ""
+            ],
+            [
+              "20",
+              "[@elcuervo](https://github.com/elcuervo)/[**cuba-sugar**](https://github.com/elcuervo/cuba-sugar)",
+              "Give cuba some sugar!",
+              ""
+            ],
+            [
+              "19",
+              "[@jmbejar](https://github.com/jmbejar)/[**todo-rails-api-backb…**](https://github.com/jmbejar/todo-rails-api-backbone-backend)",
+              "Example backend implemented with Rails API to be used with a backbone frontend app ",
+              ""
+            ],
+            [
+              "18",
+              "[@spastorino](https://github.com/spastorino)/[**coffee-rails**](https://github.com/spastorino/coffee-rails)",
+              "rails/coffee-rails is the official repo",
+              "[:arrow_upper_right:](https://github.com/rails/coffee-rails)"
+            ],
+            [
+              "17",
+              "[@alfonsocora](https://github.com/alfonsocora)/[**quickftp**](https://github.com/alfonsocora/quickftp)",
+              "Command line application that allows to quickly start an ftp server without worrying about configuration. This makes it a handy tool to transfer files easily.",
+              ""
+            ],
+            [
+              "15",
+              "[@elcuervo](https://github.com/elcuervo)/[**shibe**](https://github.com/elcuervo/shibe)",
+              "The microframework for Doges",
+              ""
+            ],
+            [
+              "14",
+              "[@alfonsocora](https://github.com/alfonsocora)/[**markdown2html**](https://github.com/alfonsocora/markdown2html)",
+              "Convert markdown files and wikis to html",
+              ""
+            ],
+            [
+              "11",
+              "[@spastorino](https://github.com/spastorino)/[**todo-rails-api-ember…**](https://github.com/spastorino/todo-rails-api-ember-backend)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@elcuervo](https://github.com/elcuervo)/[**random-octocat**](https://github.com/elcuervo/random-octocat)",
+              "Get a random octocat app",
+              "[:arrow_upper_right:](random-octocat.herokuapp.com)"
+            ],
+            [
+              "10",
+              "[@elcuervo](https://github.com/elcuervo)/[**flag**](https://github.com/elcuervo/flag)",
+              "Simple feature flags",
+              ""
+            ],
+            [
+              "10",
+              "[@oboxodo](https://github.com/oboxodo)/[**aprende_a_programar**](https://github.com/oboxodo/aprende_a_programar)",
+              "Traducción al español del tutorial de Chris Pine \"Learn to Program\"",
+              ""
+            ],
+            [
+              "9",
+              "[@spastorino](https://github.com/spastorino)/[**exceptron**](https://github.com/spastorino/exceptron)",
+              "Exceptron comes from the future to make your exceptions rock!",
+              ""
+            ],
+            [
+              "8",
+              "[@pote](https://github.com/pote)/[**homebrew-gpm_plugins**](https://github.com/pote/homebrew-gpm_plugins)",
+              "A repository of gpm plugins installable through homebrew.",
+              ""
+            ],
+            [
+              "8",
+              "[@pote](https://github.com/pote)/[**box**](https://github.com/pote/box)",
+              "A dead easy \"inline filesystem\" for your ruby scripts",
+              ""
+            ],
+            [
+              "8",
+              "[@elcuervo](https://github.com/elcuervo)/[**net-http-pool**](https://github.com/elcuervo/net-http-pool)",
+              "Persistent HTTP connection pool",
+              ""
+            ],
+            [
+              "8",
+              "[@rebagliatte](https://github.com/rebagliatte)/[**rails_portfolio**](https://github.com/rebagliatte/rails_portfolio)",
+              "Rails portfolio app",
+              ""
+            ],
+            [
+              "7",
+              "[@dcadenas](https://github.com/dcadenas)/[**auto_focusable_forms**](https://github.com/dcadenas/auto_focusable_forms)",
+              "Plugin to automatically give focus to your Rails forms",
+              "[:arrow_upper_right:](http://www.danielcadenas.com)"
+            ],
+            [
+              "7",
+              "[@elcuervo](https://github.com/elcuervo)/[**shoden**](https://github.com/elcuervo/shoden)",
+              "The elephant god",
+              ""
+            ],
+            [
+              "6",
+              "[@elcuervo](https://github.com/elcuervo)/[**net-ptth**](https://github.com/elcuervo/net-ptth)",
+              "Reverse HTTP ruby client",
+              ""
+            ],
+            [
+              "6",
+              "[@dcadenas](https://github.com/dcadenas)/[**depgraph**](https://github.com/dcadenas/depgraph)",
+              "A Ruby tool to create dependency graph images from any kind of file",
+              "[:arrow_upper_right:](http://depgraph.rubyforge.org/)"
+            ],
+            [
+              "6",
+              "[@elcuervo](https://github.com/elcuervo)/[**limelight_video**](https://github.com/elcuervo/limelight_video)",
+              "Limelight video platform ruby client",
+              ""
+            ],
+            [
+              "5",
+              "[@dcadenas](https://github.com/dcadenas)/[**file_test_helper**](https://github.com/dcadenas/file_test_helper)",
+              "A simple helper aimed at reducing the setup effort needed to create directories, files and file content in the scope of an integration test case.",
+              "[:arrow_upper_right:](http://filetesthelper.rubyforge.org/)"
+            ],
+            [
+              "4",
+              "[@zevarito](https://github.com/zevarito)/[**uglify_html**](https://github.com/zevarito/uglify_html)",
+              "Make a Html document ugly",
+              ""
+            ],
+            [
+              "4",
+              "[@spastorino](https://github.com/spastorino)/[**rails-benchs**](https://github.com/spastorino/rails-benchs)",
+              "Some Rails benches that work across Rails versions and can be used to compare perf progress",
+              ""
+            ],
+            [
+              "4",
+              "[@elcuervo](https://github.com/elcuervo)/[**firma**](https://github.com/elcuervo/firma)",
+              "Adds a secure signature to pdf",
+              ""
+            ],
+            [
+              "4",
+              "[@dcadenas](https://github.com/dcadenas)/[**active_record_state_…**](https://github.com/dcadenas/active_record_state_pattern)",
+              "A Rails plugin that implements the state design pattern in ActiveRecord models.",
+              ""
+            ],
+            [
+              "3",
+              "[@elcuervo](https://github.com/elcuervo)/[**net-http-auth-hmac**](https://github.com/elcuervo/net-http-auth-hmac)",
+              "Signs Net::HTTP requests",
+              ""
+            ],
+            [
+              "3",
+              "[@elcuervo](https://github.com/elcuervo)/[**proof_of_work**](https://github.com/elcuervo/proof_of_work)",
+              "A Hashcash algorithm implementation",
+              ""
+            ],
+            [
+              "3",
+              "[@nachof](https://github.com/nachof)/[**sgf2img**](https://github.com/nachof/sgf2img)",
+              "Create an image from an SGF file -- can be used to quickly see tsumegos without using a full featured SGF editor",
+              ""
+            ],
+            [
+              "3",
+              "[@alfonsocora](https://github.com/alfonsocora)/[**endpost**](https://github.com/alfonsocora/endpost)",
+              "A ruby wrapper around Endicia web services",
+              ""
+            ],
+            [
+              "3",
+              "[@alfonsocora](https://github.com/alfonsocora)/[**masscancan**](https://github.com/alfonsocora/masscancan)",
+              "MassCanCan is an extension to the not-yet released CanCan 2.0. It grabs the permissions defined with CanCan and uses them to implement the ActiveRecord mass assignment security policies, removing the need to define the accessible attributes in the model and contributing to the application consistency.",
+              ""
+            ],
+            [
+              "3",
+              "[@amuhle](https://github.com/amuhle)/[**relations**](https://github.com/amuhle/relations)",
+              "RubyOnRails Gem to relate models",
+              ""
+            ],
+            [
+              "3",
+              "[@snmgian](https://github.com/snmgian)/[**yew**](https://github.com/snmgian/yew)",
+              "Offers an object access like interface to Hash structures.",
+              ""
+            ],
+            [
+              "2",
+              "[@dcadenas](https://github.com/dcadenas)/[**rspec2rr**](https://github.com/dcadenas/rspec2rr)",
+              "A Ruby script that helps you ease the migration process from rspec dobules ro rr trying to reduce your manual work",
+              "[:arrow_upper_right:](http://www.danielcadenas.com)"
+            ],
+            [
+              "2",
+              "[@snmgian](https://github.com/snmgian)/[**simple_sorting**](https://github.com/snmgian/simple_sorting)",
+              "SimpleSorting helps to make sorting at rails more easier",
+              ""
+            ],
+            [
+              "2",
+              "[@dcadenas](https://github.com/dcadenas)/[**stubborn**](https://github.com/dcadenas/stubborn)",
+              "A Ruby gem that helps you find missing stubs in your tests.",
+              ""
+            ],
+            [
+              "2",
+              "[@dcadenas](https://github.com/dcadenas)/[**rspec_prank**](https://github.com/dcadenas/rspec_prank)",
+              "RSpec + Apple Motion Sensor = Fun!",
+              ""
+            ],
+            [
+              "2",
+              "[@pote](https://github.com/pote)/[**wayfinder**](https://github.com/pote/wayfinder)",
+              "A bookkeeping tool for the Pathfinder Role Playing Game.",
+              ""
+            ],
+            [
+              "2",
+              "[@amuhle](https://github.com/amuhle)/[**delivery**](https://github.com/amuhle/delivery)",
+              "delivery app for suppliers",
+              ""
+            ],
+            [
+              "2",
+              "[@elcuervo](https://github.com/elcuervo)/[**cachoo**](https://github.com/elcuervo/cachoo)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@joseicosta](https://github.com/joseicosta)/[**janus-tweaks**](https://github.com/joseicosta/janus-tweaks)",
+              "Basic vim tweaks to use with janus",
+              ""
+            ],
+            [
+              "2",
+              "[@nachof](https://github.com/nachof)/[**zheng**](https://github.com/nachof/zheng)",
+              "Go rating calculator",
+              ""
+            ],
+            [
+              "2",
+              "[@spastorino](https://github.com/spastorino)/[**exceptron_example**](https://github.com/spastorino/exceptron_example)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@frozeek](https://github.com/frozeek)/[**xhive**](https://github.com/frozeek/xhive)",
+              "A simple Rails AJAX CMS",
+              ""
+            ],
+            [
+              "2",
+              "[@oboxodo](https://github.com/oboxodo)/[**acts_as_extensible**](https://github.com/oboxodo/acts_as_extensible)",
+              "Delegates columns of a has_one association and creates the proxy methods in the caller",
               ""
             ]
           ]
