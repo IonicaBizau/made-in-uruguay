@@ -61,7 +61,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -2438,6 +2439,33 @@
               "2",
               "[@oboxodo](https://github.com/oboxodo)/[**acts_as_extensible**](https://github.com/oboxodo/acts_as_extensible)",
               "Delegates columns of a has_one association and creates the proxy methods in the caller",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@scala-meetup-mvd](https://github.com/scala-meetup-mvd)/[**intro-scala**](https://github.com/scala-meetup-mvd/intro-scala)",
+              "Repo con codigo demo de la charla intro a scala",
+              ""
+            ],
+            [
+              "2",
+              "[@netlabs-foundation](https://github.com/netlabs-foundation)/[**luthier**](https://github.com/netlabs-foundation/luthier)",
+              "",
               ""
             ]
           ]
