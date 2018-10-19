@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[Clojure](#clojure)",
           "[Go](#go)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -1328,6 +1329,81 @@
               "4",
               "[@rsisto](https://github.com/rsisto)/[**luaRoboEmb**](https://github.com/rsisto/luaRoboEmb)",
               "Lua library for embedded robotics.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "178",
+              "[@jeremangnr](https://github.com/jeremangnr)/[**JNKeychain**](https://github.com/jeremangnr/JNKeychain)",
+              "Simple wrapper to store, load and delete items from the iOS Keychain. (Uses ARC)",
+              ""
+            ],
+            [
+              "54",
+              "[@jchomali](https://github.com/jchomali)/[**ApolloDB**](https://github.com/jchomali/ApolloDB)",
+              "An easy to implement and secure database for your apps.",
+              ""
+            ],
+            [
+              "16",
+              "[@encuadro](https://github.com/encuadro)/[**encuadro**](https://github.com/encuadro/encuadro)",
+              "Aplicación de realidad aumentada y navegación para museos sobre smart devices",
+              ""
+            ],
+            [
+              "15",
+              "[@jeremangnr](https://github.com/jeremangnr)/[**UICollectionView-Dem…**](https://github.com/jeremangnr/UICollectionView-Demo)",
+              "UICollectionView Demo",
+              ""
+            ],
+            [
+              "9",
+              "[@mostachoio](https://github.com/mostachoio)/[**MoABContactsManager**](https://github.com/mostachoio/MoABContactsManager)",
+              "A library to manage contacts from iOS Address Book",
+              ""
+            ],
+            [
+              "3",
+              "[@Itaybre](https://github.com/Itaybre)/[**iFinder-Source-Code**](https://github.com/Itaybre/iFinder-Source-Code)",
+              "iFinder Source Code",
+              "[:arrow_upper_right:](www.itaysoft.com)"
+            ],
+            [
+              "3",
+              "[@enriquebk](https://github.com/enriquebk)/[**iOS-Density-Map**](https://github.com/enriquebk/iOS-Density-Map)",
+              "iOS Density Map allows you to efficiently render thousands of points on a map.",
+              ""
+            ],
+            [
+              "3",
+              "[@iOSDevUY](https://github.com/iOSDevUY)/[**workshop-hello-world**](https://github.com/iOSDevUY/workshop-hello-world)",
+              "iOS app - Hello World (Workshop 2014, July, 26)",
+              ""
+            ],
+            [
+              "2",
+              "[@Itaybre](https://github.com/Itaybre)/[**FakePercent**](https://github.com/Itaybre/FakePercent)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@javiercamacho](https://github.com/javiercamacho)/[**PatoCeleste**](https://github.com/javiercamacho/PatoCeleste)",
+              "",
               ""
             ]
           ]
