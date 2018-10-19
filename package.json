@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -702,6 +703,189 @@
               "2",
               "[@olistic](https://github.com/olistic)/[**jotason**](https://github.com/olistic/jotason)",
               "🍬 Lightweight data-interchange language that adds syntactic sugar to JSON",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "35",
+              "[@luciofm](https://github.com/luciofm)/[**AndroidDevConf2015**](https://github.com/luciofm/AndroidDevConf2015)",
+              "Palestra na Android Dev Conference 2015",
+              ""
+            ],
+            [
+              "30",
+              "[@luciofm](https://github.com/luciofm)/[**ifican**](https://github.com/luciofm/ifican)",
+              "Se eu posso, você também pode - Animações para desenvolvedores...",
+              ""
+            ],
+            [
+              "18",
+              "[@luciofm](https://github.com/luciofm)/[**droidcon**](https://github.com/luciofm/droidcon)",
+              "If I Can, You Can Too - Animations for Developers...",
+              ""
+            ],
+            [
+              "15",
+              "[@luciofm](https://github.com/luciofm)/[**SquareGridLayout**](https://github.com/luciofm/SquareGridLayout)",
+              "Sample application showing a simple custom SquareGridLayout...",
+              ""
+            ],
+            [
+              "14",
+              "[@luciofm](https://github.com/luciofm)/[**FromThisToThat**](https://github.com/luciofm/FromThisToThat)",
+              "From This to That - Droidcon Italy",
+              ""
+            ],
+            [
+              "11",
+              "[@luciofm](https://github.com/luciofm)/[**ExtendedPrefs**](https://github.com/luciofm/ExtendedPrefs)",
+              "Extended SharedPreferences Class for Android",
+              ""
+            ],
+            [
+              "8",
+              "[@mambrosi](https://github.com/mambrosi)/[**MaterialMovies**](https://github.com/mambrosi/MaterialMovies)",
+              "Simple Android App which implements several Material Design patterns using Google´s Design Library and Support Library",
+              ""
+            ],
+            [
+              "7",
+              "[@jdavisonc](https://github.com/jdavisonc)/[**seedboxer**](https://github.com/jdavisonc/seedboxer)",
+              "SeedBoxer is a distribution content system based on users queues and filters.",
+              ""
+            ],
+            [
+              "6",
+              "[@luciofm](https://github.com/luciofm)/[**nextlevel**](https://github.com/luciofm/nextlevel)",
+              "Palestra no Next Level Apps 2014",
+              ""
+            ],
+            [
+              "6",
+              "[@luciofm](https://github.com/luciofm)/[**BackupManagerTest**](https://github.com/luciofm/BackupManagerTest)",
+              "Test project for the Android BackupManager",
+              ""
+            ],
+            [
+              "6",
+              "[@luciofm](https://github.com/luciofm)/[**AndroidSalao**](https://github.com/luciofm/AndroidSalao)",
+              "Appresentação Android no Salão de Beleza.",
+              ""
+            ],
+            [
+              "6",
+              "[@luciofm](https://github.com/luciofm)/[**Paleta**](https://github.com/luciofm/Paleta)",
+              "Paleta is a simple Android app for generating Palettes from images...",
+              ""
+            ],
+            [
+              "5",
+              "[@luciofm](https://github.com/luciofm)/[**MetroSP**](https://github.com/luciofm/MetroSP)",
+              "Simples Scrapper da Condicão atual das linhas de Metro de SP. Disponivel para download no Market https://market.android.com/details?id=ne…",
+              ""
+            ],
+            [
+              "4",
+              "[@luciofm](https://github.com/luciofm)/[**LazyWorkTimeTracker**](https://github.com/luciofm/LazyWorkTimeTracker)",
+              "Track the time I spent at work by watching my wifi connectivity.",
+              ""
+            ],
+            [
+              "4",
+              "[@jdavisonc](https://github.com/jdavisonc)/[**camel-gdrive**](https://github.com/jdavisonc/camel-gdrive)",
+              "Camel component for integrate with Google Drive",
+              ""
+            ],
+            [
+              "3",
+              "[@nico-gonzalez](https://github.com/nico-gonzalez)/[**volley-it**](https://github.com/nico-gonzalez/volley-it)",
+              "A simple Chuck Norris jokes app built using Volley. The purpose of this project is to show some of the features provided by the Volley toolbox and compare it with the HttpUrlConnection approach",
+              ""
+            ],
+            [
+              "3",
+              "[@luciofm](https://github.com/luciofm)/[**AsyncTaskCompat**](https://github.com/luciofm/AsyncTaskCompat)",
+              "Backport Ice Cream Sandwich AsyncTask all the way back do Donut 1.6, providing a consistent behavior across all Android Versions.",
+              ""
+            ],
+            [
+              "3",
+              "[@luciofm](https://github.com/luciofm)/[**ListSelectionSample**](https://github.com/luciofm/ListSelectionSample)",
+              "ListView item selection sample (for android < 3.0)",
+              ""
+            ],
+            [
+              "2",
+              "[@mambrosi](https://github.com/mambrosi)/[**JNI-Asset-Manager**](https://github.com/mambrosi/JNI-Asset-Manager)",
+              "Simple app using JNI to read files inside the app's Assets folder",
+              ""
+            ],
+            [
+              "2",
+              "[@mradzinski](https://github.com/mradzinski)/[**SmartDNSProxy**](https://github.com/mradzinski/SmartDNSProxy)",
+              "Simple Android application which updates the IP on Smart DNS Proxy",
+              ""
+            ],
+            [
+              "2",
+              "[@luciofm](https://github.com/luciofm)/[**ViewPagerHack**](https://github.com/luciofm/ViewPagerHack)",
+              "Hack solution to not allow ViewPager scroll more than one page when getPageWidth() < 1.0f",
+              ""
+            ],
+            [
+              "2",
+              "[@jdavisonc](https://github.com/jdavisonc)/[**seedroid**](https://github.com/jdavisonc/seedroid)",
+              "Seedroid is an Android client application for SeedBoxer",
+              ""
+            ],
+            [
+              "2",
+              "[@acoppes](https://github.com/acoppes)/[**LD22---AL1**](https://github.com/acoppes/LD22---AL1)",
+              "My game for Ludum Dare 22 codenamed AL1",
+              "[:arrow_upper_right:](http://blog.gemserk.com)"
+            ],
+            [
+              "2",
+              "[@luciofm](https://github.com/luciofm)/[**CursoAndroid**](https://github.com/luciofm/CursoAndroid)",
+              "Material de exemplo para Curso de Android",
+              ""
+            ],
+            [
+              "2",
+              "[@luciofm](https://github.com/luciofm)/[**Anime-se**](https://github.com/luciofm/Anime-se)",
+              "Palestra apresentada no Dev Fest São Paulo 2013 e códigos de exemplo",
+              ""
+            ],
+            [
+              "2",
+              "[@matiasf](https://github.com/matiasf)/[**workberch-tolopogy**](https://github.com/matiasf/workberch-tolopogy)",
+              "Dynamic Apache Storm topology created by a workflow file on Taverna Workbench.",
+              ""
+            ],
+            [
+              "2",
+              "[@matiasf](https://github.com/matiasf)/[**GeoRedTSI2**](https://github.com/matiasf/GeoRedTSI2)",
+              "Proyecto de TSI2.",
+              ""
+            ],
+            [
+              "2",
+              "[@luciofm](https://github.com/luciofm)/[**qconrio**](https://github.com/luciofm/qconrio)",
+              "Android em Movimento - QCon Rio.",
               ""
             ]
           ]
