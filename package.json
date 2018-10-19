@@ -39,5 +39,674 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-uruguay/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8153",
+              "[@olistic](https://github.com/olistic)/[**warriorjs**](https://github.com/olistic/warriorjs)",
+              "🏰 An exciting game of programming and Artificial Intelligence",
+              "[:arrow_upper_right:](https://warriorjs.com)"
+            ],
+            [
+              "5240",
+              "[@diegomura](https://github.com/diegomura)/[**react-pdf**](https://github.com/diegomura/react-pdf)",
+              "📄 Create PDF files using React",
+              "[:arrow_upper_right:](https://react-pdf.org)"
+            ],
+            [
+              "525",
+              "[@diegomura](https://github.com/diegomura)/[**react-log**](https://github.com/diegomura/react-log)",
+              "React for the Console",
+              "[:arrow_upper_right:](https://diegomura.github.io/react-log/)"
+            ],
+            [
+              "296",
+              "[@nachoaIvarez](https://github.com/nachoaIvarez)/[**flexbox-react**](https://github.com/nachoaIvarez/flexbox-react)",
+              "Unopinionated, standard compliant flexbox component. No propietary APIs. Nothing but flexbox.",
+              ""
+            ],
+            [
+              "252",
+              "[@san650](https://github.com/san650)/[**ember-cli-page-objec…**](https://github.com/san650/ember-cli-page-object)",
+              "This ember-cli addon eases the construction of page objects on your acceptance and integration tests",
+              "[:arrow_upper_right:](http://ember-cli-page-object.js.org/)"
+            ],
+            [
+              "213",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**gitter-cli**](https://github.com/RodrigoEspinosa/gitter-cli)",
+              "An extremely simple Gitter client for your terminal ",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/gitter-cli)"
+            ],
+            [
+              "177",
+              "[@oxyc](https://github.com/oxyc)/[**luaparse**](https://github.com/oxyc/luaparse)",
+              "A Lua parser written in JavaScript",
+              "[:arrow_upper_right:](https://oxyc.github.io/luaparse/)"
+            ],
+            [
+              "170",
+              "[@ngonzalvez](https://github.com/ngonzalvez)/[**rest-facade**](https://github.com/ngonzalvez/rest-facade)",
+              "Node.js module that abstracts the process of consuming a REST endpoint.",
+              ""
+            ],
+            [
+              "145",
+              "[@san650](https://github.com/san650)/[**ember-web-app**](https://github.com/san650/ember-web-app)",
+              "This Ember addon helps you configure and manage the manifest.json and meta tags needed to create progressive web applications",
+              "[:arrow_upper_right:](https://san650.github.io/ember-web-app/)"
+            ],
+            [
+              "92",
+              "[@deleteman](https://github.com/deleteman)/[**vatican**](https://github.com/deleteman/vatican)",
+              "Micro-framework designed to create REST APIs with minor effort",
+              ""
+            ],
+            [
+              "80",
+              "[@gusgard](https://github.com/gusgard)/[**react-native-swiper-…**](https://github.com/gusgard/react-native-swiper-flatlist)",
+              "👆 Swiper component implemented with FlatList",
+              ""
+            ],
+            [
+              "60",
+              "[@nachoaIvarez](https://github.com/nachoaIvarez)/[**es6-webapp-starterki…**](https://github.com/nachoaIvarez/es6-webapp-starterkit)",
+              "Future-proof starterkit for writing ES6 web apps using gulp for the build process and jspm to manage dependencies.",
+              ""
+            ],
+            [
+              "55",
+              "[@diegomura](https://github.com/diegomura)/[**react-portalgun**](https://github.com/diegomura/react-portalgun)",
+              "Lightweight portal system for React. Mega seeds included 🔫",
+              "[:arrow_upper_right:](https://npm.im/react-portalgun)"
+            ],
+            [
+              "51",
+              "[@diegomura](https://github.com/diegomura)/[**bespoke-react**](https://github.com/diegomura/bespoke-react)",
+              "Bespoke + React made easy",
+              "[:arrow_upper_right:](https://diegomura.github.io/bespoke-react/)"
+            ],
+            [
+              "49",
+              "[@olistic](https://github.com/olistic)/[**simplechain**](https://github.com/olistic/simplechain)",
+              "⛓✨ Interactive blockchain built with Node.js",
+              ""
+            ],
+            [
+              "48",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**lookenv**](https://github.com/RodrigoEspinosa/lookenv)",
+              "Set rules for the environment variables in your project. Works great with dotenv",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/lookenv)"
+            ],
+            [
+              "45",
+              "[@deleteman](https://github.com/deleteman)/[**angular-field-splitt…**](https://github.com/deleteman/angular-field-splitter)",
+              "Angular directive to turn a single field into several fields that remain interconnected",
+              ""
+            ],
+            [
+              "32",
+              "[@nachoaIvarez](https://github.com/nachoaIvarez)/[**react-native-scrolla…**](https://github.com/nachoaIvarez/react-native-scrollable-list)",
+              "A ListView without the boilerplate.",
+              ""
+            ],
+            [
+              "31",
+              "[@san650](https://github.com/san650)/[**ember-preferences**](https://github.com/san650/ember-preferences)",
+              "Easy way of managing user preferences on the client side",
+              ""
+            ],
+            [
+              "27",
+              "[@gusgard](https://github.com/gusgard)/[**react-native-grid-li…**](https://github.com/gusgard/react-native-grid-list)",
+              "🌁 Grid list component implemented with FlatList",
+              ""
+            ],
+            [
+              "21",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**mongoose-orchestrato…**](https://github.com/RodrigoEspinosa/mongoose-orchestrator)",
+              "On the fly references to attributes synchronisation.",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/mongoose-orchestrator)"
+            ],
+            [
+              "17",
+              "[@cancerberoSgx](https://github.com/cancerberoSgx)/[**short-jsdoc**](https://github.com/cancerberoSgx/short-jsdoc)",
+              "jsdoc implementation with flexible and shorter syntax, written from scratch, with emphasis in rich type support",
+              "[:arrow_upper_right:](http://cancerberosgx.github.io/short-jsdoc/doc/guide/)"
+            ],
+            [
+              "12",
+              "[@gusgard](https://github.com/gusgard)/[**angular-seed-es6**](https://github.com/gusgard/angular-seed-es6)",
+              "🍯 Started project for AngularJS 1.5 apps using best practices + ES6 + SASS + angular material + Browserify + BrowserSync",
+              ""
+            ],
+            [
+              "11",
+              "[@nachoaIvarez](https://github.com/nachoaIvarez)/[**hyper-vibrant**](https://github.com/nachoaIvarez/hyper-vibrant)",
+              "Snazzy inspired hyper theme using the Vibrancy API",
+              ""
+            ],
+            [
+              "11",
+              "[@san650](https://github.com/san650)/[**ceibo**](https://github.com/san650/ceibo)",
+              "Ceibo is a JavaScript micro library to model trees that evaluate arbitrary code when accessing its nodes.",
+              ""
+            ],
+            [
+              "11",
+              "[@san650](https://github.com/san650)/[**ember-qunit-source-m…**](https://github.com/san650/ember-qunit-source-map)",
+              "This addon provides source map support for stack traces in QUnit",
+              ""
+            ],
+            [
+              "10",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**md-open**](https://github.com/RodrigoEspinosa/md-open)",
+              "A markdown viewer for your terminal build with JavaScript.",
+              ""
+            ],
+            [
+              "9",
+              "[@gusgard](https://github.com/gusgard)/[**add-stars**](https://github.com/gusgard/add-stars)",
+              "⭐ Add stars to all the repos in GitHub used in package.json",
+              ""
+            ],
+            [
+              "9",
+              "[@olistic](https://github.com/olistic)/[**graphql-type-uuid**](https://github.com/olistic/graphql-type-uuid)",
+              "UUID scalar type for GraphQL.js",
+              ""
+            ],
+            [
+              "9",
+              "[@olistic](https://github.com/olistic)/[**inquirer-prompt-sugg…**](https://github.com/olistic/inquirer-prompt-suggest)",
+              "Inquirer.js prompt for your less creative users",
+              ""
+            ],
+            [
+              "8",
+              "[@LeonardoVal](https://github.com/LeonardoVal)/[**capataz.js**](https://github.com/LeonardoVal/capataz.js)",
+              "A framework to set up distributed algorithms via HTTP, HTML and Javascript, based on NodeJS and Express.",
+              ""
+            ],
+            [
+              "8",
+              "[@LeonardoVal](https://github.com/LeonardoVal)/[**sermat.js**](https://github.com/LeonardoVal/sermat.js)",
+              "Sermat is a serialization format, similar to JSON.",
+              ""
+            ],
+            [
+              "7",
+              "[@merodriguezblanco](https://github.com/merodriguezblanco)/[**react-transformicons**](https://github.com/merodriguezblanco/react-transformicons)",
+              "Transformicons for React apps",
+              ""
+            ],
+            [
+              "7",
+              "[@san650](https://github.com/san650)/[**cypress-page-object**](https://github.com/san650/cypress-page-object)",
+              "Represent the screens of your website as a series of objects in your Cypress test suite",
+              ""
+            ],
+            [
+              "7",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**exif-cli**](https://github.com/RodrigoEspinosa/exif-cli)",
+              "Terminal interface for node-exif. A node.js library to extract Exif metadata from images.",
+              ""
+            ],
+            [
+              "7",
+              "[@san650](https://github.com/san650)/[**move-the-boxes**](https://github.com/san650/move-the-boxes)",
+              "A Sokoban like game written in Ember and HTML5",
+              "[:arrow_upper_right:](https://move-the-boxes.pagefrontapp.com/)"
+            ],
+            [
+              "7",
+              "[@gusgard](https://github.com/gusgard)/[**d3-bubble-matrix**](https://github.com/gusgard/d3-bubble-matrix)",
+              "A bubble matrix using d3",
+              ""
+            ],
+            [
+              "7",
+              "[@juanazam](https://github.com/juanazam)/[**ember-cli-electron**](https://github.com/juanazam/ember-cli-electron)",
+              "Ember CLI addon to generate electron app with embedded ember app",
+              ""
+            ],
+            [
+              "6",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**galeano**](https://github.com/RodrigoEspinosa/galeano)",
+              "Galeano is a tool for writers that focus on inspiration.",
+              "[:arrow_upper_right:](http://recodes.co/meet-galeano/)"
+            ],
+            [
+              "6",
+              "[@oxyc](https://github.com/oxyc)/[**umd-bestiejs**](https://github.com/oxyc/umd-bestiejs)",
+              "Experimental module definition pattern inspired by BestieJS",
+              ""
+            ],
+            [
+              "6",
+              "[@oxyc](https://github.com/oxyc)/[**grunt-lint-inline**](https://github.com/oxyc/grunt-lint-inline)",
+              "Grunt task for linting inline javascript",
+              ""
+            ],
+            [
+              "6",
+              "[@diegomura](https://github.com/diegomura)/[**flexbox-js**](https://github.com/diegomura/flexbox-js)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@LeonardoVal](https://github.com/LeonardoVal)/[**ludorum.js**](https://github.com/LeonardoVal/ludorum.js)",
+              "A board game framework, focused not on graphics or user interfaces, but on artificial players design, implementation and testing.",
+              ""
+            ],
+            [
+              "6",
+              "[@deleteman](https://github.com/deleteman)/[**FieldSplitter**](https://github.com/deleteman/FieldSplitter)",
+              "JQuery plugin that turns a single input field into a multi-field input",
+              ""
+            ],
+            [
+              "6",
+              "[@san650](https://github.com/san650)/[**ember-confetti**](https://github.com/san650/ember-confetti)",
+              "Plug and play confetti rain for your Ember application!",
+              "[:arrow_upper_right:](https://san650.github.io/ember-confetti/)"
+            ],
+            [
+              "6",
+              "[@oxyc](https://github.com/oxyc)/[**grunt-lint-bash**](https://github.com/oxyc/grunt-lint-bash)",
+              "Grunt task to validate bash scripts",
+              ""
+            ],
+            [
+              "5",
+              "[@ngonzalvez](https://github.com/ngonzalvez)/[**objective-ng**](https://github.com/ngonzalvez/objective-ng)",
+              "Object-Oriented AngularJS.",
+              ""
+            ],
+            [
+              "5",
+              "[@san650](https://github.com/san650)/[**ember-test-assets**](https://github.com/san650/ember-test-assets)",
+              "Add assets for tests easily and avoid 404 network errors",
+              ""
+            ],
+            [
+              "5",
+              "[@francocorreasosa](https://github.com/francocorreasosa)/[**autodiscover-modules**](https://github.com/francocorreasosa/autodiscover-modules)",
+              "Autodiscover modules in a directory with a required export signature",
+              ""
+            ],
+            [
+              "5",
+              "[@cancerberoSgx](https://github.com/cancerberoSgx)/[**sgxRaphaelJsPlugins**](https://github.com/cancerberoSgx/sgxRaphaelJsPlugins)",
+              "my raphaeljs plugins",
+              ""
+            ],
+            [
+              "5",
+              "[@gusgard](https://github.com/gusgard)/[**viro-AR-playground**](https://github.com/gusgard/viro-AR-playground)",
+              "🖼️ Testing Viro AR and RN",
+              ""
+            ],
+            [
+              "5",
+              "[@diegomura](https://github.com/diegomura)/[**media-engine**](https://github.com/diegomura/media-engine)",
+              "Media queries engine written in pure JS!",
+              ""
+            ],
+            [
+              "4",
+              "[@ngonzalvez](https://github.com/ngonzalvez)/[**cgx-promise**](https://github.com/ngonzalvez/cgx-promise)",
+              "Lightweight promise library for Javascript",
+              ""
+            ],
+            [
+              "4",
+              "[@LeonardoVal](https://github.com/LeonardoVal)/[**inveniemus.js**](https://github.com/LeonardoVal/inveniemus.js)",
+              "A search and optimization library, focusing on metaheuristics.",
+              ""
+            ],
+            [
+              "4",
+              "[@olistic](https://github.com/olistic)/[**hapi-overriding**](https://github.com/olistic/hapi-overriding)",
+              "Override HTTP verbs",
+              ""
+            ],
+            [
+              "4",
+              "[@cancerberoSgx](https://github.com/cancerberoSgx)/[**raphaeljs-tutorial**](https://github.com/cancerberoSgx/raphaeljs-tutorial)",
+              "Sebastián Gurin's Raphaeljs Interactive Tutorial",
+              "[:arrow_upper_right:](http://cancerberosgx.github.io/raphaeljs-tutorial/)"
+            ],
+            [
+              "4",
+              "[@nachoaIvarez](https://github.com/nachoaIvarez)/[**lesspass-native**](https://github.com/nachoaIvarez/lesspass-native)",
+              "iOS and Android native client for the lesspass protocol.",
+              "[:arrow_upper_right:](https://exp.host/@nachoalvarez/lesspass-native)"
+            ],
+            [
+              "4",
+              "[@LeonardoVal](https://github.com/LeonardoVal)/[**creatartis-base.js**](https://github.com/LeonardoVal/creatartis-base.js)",
+              "Basic and generic utility functions and definitions.",
+              ""
+            ],
+            [
+              "4",
+              "[@ngonzalvez](https://github.com/ngonzalvez)/[**cg-inject**](https://github.com/ngonzalvez/cg-inject)",
+              "Simpler dependency injection for AngularJS when using Prototypes",
+              ""
+            ],
+            [
+              "4",
+              "[@gusgard](https://github.com/gusgard)/[**react-native-graphql…**](https://github.com/gusgard/react-native-graphql-example)",
+              "🥤 A react-native project with graphql configured, snapshots and good practices",
+              ""
+            ],
+            [
+              "4",
+              "[@oxyc](https://github.com/oxyc)/[**travels**](https://github.com/oxyc/travels)",
+              "",
+              "[:arrow_upper_right:](http://travels.oxy.fi)"
+            ],
+            [
+              "4",
+              "[@cherta](https://github.com/cherta)/[**apis-uy**](https://github.com/cherta/apis-uy)",
+              "A web interface to show and test uruguayan api's",
+              "[:arrow_upper_right:](http://apis-uy.herokuapp.com)"
+            ],
+            [
+              "4",
+              "[@nachoaIvarez](https://github.com/nachoaIvarez)/[**jspm-demo**](https://github.com/nachoaIvarez/jspm-demo)",
+              "Demo of JSPM usage.",
+              ""
+            ],
+            [
+              "3",
+              "[@deleteman](https://github.com/deleteman)/[**rawhub**](https://github.com/deleteman/rawhub)",
+              "Express.js middleware to get  resources from raw.github.com to use on a website",
+              ""
+            ],
+            [
+              "3",
+              "[@diegocard](https://github.com/diegocard)/[**mobile-architecture**](https://github.com/diegocard/mobile-architecture)",
+              ":iphone: HTML5 based mobile application example, exploring different architectures and technologies ",
+              ""
+            ],
+            [
+              "3",
+              "[@cancerberoSgx](https://github.com/cancerberoSgx)/[**js-indentator**](https://github.com/cancerberoSgx/js-indentator)",
+              "A javascript indentation and general parsing tool based on esprima JavaScript parser that can be run on the browser",
+              "[:arrow_upper_right:](http://cancerberosgx.github.io/js-indentator/jsindentator/test/)"
+            ],
+            [
+              "3",
+              "[@nachoaIvarez](https://github.com/nachoaIvarez)/[**retweet-draw**](https://github.com/nachoaIvarez/retweet-draw)",
+              "A draw among retweets. Given a tweet id, logs a random user that retweeted the referenced tweet.",
+              ""
+            ],
+            [
+              "3",
+              "[@gusgard](https://github.com/gusgard)/[**ci-dashboard**](https://github.com/gusgard/ci-dashboard)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@cherta](https://github.com/cherta)/[**recruitment**](https://github.com/cherta/recruitment)",
+              "An app to change the world of recruitment (?)",
+              "[:arrow_upper_right:](http://cherta.github.io/recruitment)"
+            ],
+            [
+              "3",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**mvd-js-meteor**](https://github.com/RodrigoEspinosa/mvd-js-meteor)",
+              "Meteor sample application based on \"You can't javascript under pressure\"",
+              "[:arrow_upper_right:](http://mvdjs.meteor.com)"
+            ],
+            [
+              "3",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**toggl-today**](https://github.com/RodrigoEspinosa/toggl-today)",
+              "Show entries from today on your terminal.",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/toggl-today)"
+            ],
+            [
+              "3",
+              "[@san650](https://github.com/san650)/[**ombu**](https://github.com/san650/ombu)",
+              "JavaScript micro library to help modelling really simple page objects",
+              ""
+            ],
+            [
+              "3",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**starmate**](https://github.com/RodrigoEspinosa/starmate)",
+              "Compare between unlimited (not exactly) amount of Github projects by their stars",
+              "[:arrow_upper_right:](https://starmate-lfpvvuwrby.now.sh)"
+            ],
+            [
+              "3",
+              "[@francocorreasosa](https://github.com/francocorreasosa)/[**AtomicExpress**](https://github.com/francocorreasosa/AtomicExpress)",
+              "An Express-boilerplate with steroids",
+              ""
+            ],
+            [
+              "3",
+              "[@deleteman](https://github.com/deleteman)/[**tdm**](https://github.com/deleteman/tdm)",
+              "Send and read Twitter's DMs using Twitter's API from the command line.",
+              ""
+            ],
+            [
+              "3",
+              "[@cherta](https://github.com/cherta)/[**GrandmaRadio**](https://github.com/cherta/GrandmaRadio)",
+              "A radio app with big buttons for my grandma",
+              ""
+            ],
+            [
+              "3",
+              "[@deleteman](https://github.com/deleteman)/[**resourcer**](https://github.com/deleteman/resourcer)",
+              "Node.js module to automatically load resource files and turn them into JSON",
+              ""
+            ],
+            [
+              "3",
+              "[@oxyc](https://github.com/oxyc)/[**node-rest-example**](https://github.com/oxyc/node-rest-example)",
+              "Node.js web service school project useful as an example. Built using mongoose, restify, ssl, tests, doc building etc.",
+              ""
+            ],
+            [
+              "3",
+              "[@san650](https://github.com/san650)/[**ember-pokemon**](https://github.com/san650/ember-pokemon)",
+              "Let Pikachu tell developers all over the world that you're hiring!",
+              ""
+            ],
+            [
+              "3",
+              "[@cancerberoSgx](https://github.com/cancerberoSgx)/[**jsdoc-typeof-plugin**](https://github.com/cancerberoSgx/jsdoc-typeof-plugin)",
+              "A jsdoc plugin that will convert types like {typeof SomeClass} into {Class<SomeClass>}",
+              ""
+            ],
+            [
+              "3",
+              "[@nachoaIvarez](https://github.com/nachoaIvarez)/[**simple-reddit**](https://github.com/nachoaIvarez/simple-reddit)",
+              "Simple reddit client",
+              "[:arrow_upper_right:](http://nachos-reddit.surge.sh)"
+            ],
+            [
+              "3",
+              "[@diegocard](https://github.com/diegocard)/[**dry.js**](https://github.com/diegocard/dry.js)",
+              ":umbrella: Lightweight SPA framework focused on conventions",
+              "[:arrow_upper_right:](https://diegocard.com/dry.js)"
+            ],
+            [
+              "3",
+              "[@cancerberoSgx](https://github.com/cancerberoSgx)/[**prettier-eslint-gall…**](https://github.com/cancerberoSgx/prettier-eslint-gallery)",
+              "JavaScript code formatter based on eslint and prettier. Also a gallery of code formatted with popular eslint-config styleguides to see how they look like",
+              "[:arrow_upper_right:](https://github.com/cancerberoSgx/prettier-eslint-gallery)"
+            ],
+            [
+              "2",
+              "[@ngonzalvez](https://github.com/ngonzalvez)/[**cgx-events**](https://github.com/ngonzalvez/cgx-events)",
+              "Minimal client-side event bus for Javascript written in just 127 bytes.",
+              ""
+            ],
+            [
+              "2",
+              "[@oxyc](https://github.com/oxyc)/[**Back-to-Visuals**](https://github.com/oxyc/Back-to-Visuals)",
+              "A JavaScript demo submitted for TLK LAN 2010.4. The idea of the project is to polish my JS knowledge and learn to work with Canvas and basic pixel manipulation. I got most interested by the wrapper object and the actual effects need a lot more work.",
+              "[:arrow_upper_right:](http://www.oxy.fi/back-to-visuals/)"
+            ],
+            [
+              "2",
+              "[@diegomura](https://github.com/diegomura)/[**react-recipes**](https://github.com/diegomura/react-recipes)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ssassi](https://github.com/ssassi)/[**rorext**](https://github.com/ssassi/rorext)",
+              "Ruby on Rails plugin that easily adapts extJS to an application",
+              ""
+            ],
+            [
+              "2",
+              "[@juanazam](https://github.com/juanazam)/[**ember-cli-run-later**](https://github.com/juanazam/ember-cli-run-later)",
+              "Small addon to make Ember.run.later more test friendly",
+              ""
+            ],
+            [
+              "2",
+              "[@diegocard](https://github.com/diegocard)/[**spa-presentation**](https://github.com/diegocard/spa-presentation)",
+              ":loudspeaker: Presentation on how to build a Single Page Application",
+              "[:arrow_upper_right:](https://speakerdeck.com/diegocard/single-page-applications)"
+            ],
+            [
+              "2",
+              "[@deleteman](https://github.com/deleteman)/[**TwittStalker**](https://github.com/deleteman/TwittStalker)",
+              "Find out where people have been based on the location stored on their twitts.",
+              ""
+            ],
+            [
+              "2",
+              "[@francocorreasosa](https://github.com/francocorreasosa)/[**parse-server-talk**](https://github.com/francocorreasosa/parse-server-talk)",
+              "Code for my friday talk at sophilabs",
+              ""
+            ],
+            [
+              "2",
+              "[@san650](https://github.com/san650)/[**ember-humans-txt**](https://github.com/san650/ember-humans-txt)",
+              "This Ember addon helps you generate and mantain a humans.txt file for your website",
+              ""
+            ],
+            [
+              "2",
+              "[@san650](https://github.com/san650)/[**ember-ombu**](https://github.com/san650/ember-ombu)",
+              "Really simple page objects for your Ember's acceptance tests",
+              ""
+            ],
+            [
+              "2",
+              "[@san650](https://github.com/san650)/[**tajpado**](https://github.com/san650/tajpado)",
+              "A simple touch typing learning app written in Ember",
+              "[:arrow_upper_right:](http://tajpado.herokuapp.com/)"
+            ],
+            [
+              "2",
+              "[@oxyc](https://github.com/oxyc)/[**Chrome-Extensions**](https://github.com/oxyc/Chrome-Extensions)",
+              "Mixed chrome extensions for my personal laziness.",
+              ""
+            ],
+            [
+              "2",
+              "[@merodriguezblanco](https://github.com/merodriguezblanco)/[**ascii-video**](https://github.com/merodriguezblanco/ascii-video)",
+              "JavaScript video to ASCII converter using WebRTC.",
+              ""
+            ],
+            [
+              "2",
+              "[@oxyc](https://github.com/oxyc)/[**node-basecamp**](https://github.com/oxyc/node-basecamp)",
+              "Node wrapper for the basecamp bcx api",
+              ""
+            ],
+            [
+              "2",
+              "[@grilix](https://github.com/grilix)/[**pokeutils**](https://github.com/grilix/pokeutils)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@cancerberoSgx](https://github.com/cancerberoSgx)/[**engify**](https://github.com/cancerberoSgx/engify)",
+              "Browserify transformation that add minimal support for running node.js projects in multiple JavaScript implementations like node, browser, rhino, nashorn, SpiderMonkey, JavaScriptCore, ringojs, v7, etc",
+              ""
+            ],
+            [
+              "2",
+              "[@francocorreasosa](https://github.com/francocorreasosa)/[**ClimaUY**](https://github.com/francocorreasosa/ClimaUY)",
+              "Hyper-localized weather app for Uruguay.",
+              ""
+            ],
+            [
+              "2",
+              "[@RodrigoEspinosa](https://github.com/RodrigoEspinosa)/[**tito-tickets**](https://github.com/RodrigoEspinosa/tito-tickets)",
+              "Get a streaming of the tickets status using websockets for your ti.to event",
+              ""
+            ],
+            [
+              "2",
+              "[@francocorreasosa](https://github.com/francocorreasosa)/[**hapi-core-api-starte…**](https://github.com/francocorreasosa/hapi-core-api-starter)",
+              "📇 Start point for robust and type-safe APIs with Hapi, MongoDB, JWT and Authorization (WIP).",
+              ""
+            ],
+            [
+              "2",
+              "[@cancerberoSgx](https://github.com/cancerberoSgx)/[**js-editors**](https://github.com/cancerberoSgx/js-editors)",
+              "Editor framework focusing in automatic GUI / forms generation from JSON model Objects. ",
+              ""
+            ],
+            [
+              "2",
+              "[@francocorreasosa](https://github.com/francocorreasosa)/[**OpenFING-Mobile**](https://github.com/francocorreasosa/OpenFING-Mobile)",
+              "OpenFING App for iOS and Android",
+              ""
+            ],
+            [
+              "2",
+              "[@cancerberoSgx](https://github.com/cancerberoSgx)/[**generatrivia**](https://github.com/cancerberoSgx/generatrivia)",
+              "a board game generator in pure html and javascript, supporting chess-like, trivia-like, cards-like, etc.",
+              ""
+            ],
+            [
+              "2",
+              "[@LeonardoVal](https://github.com/LeonardoVal)/[**ludorum-wargame.js**](https://github.com/LeonardoVal/ludorum-wargame.js)",
+              "Miniature wargame implementation for Ludorum.",
+              ""
+            ],
+            [
+              "2",
+              "[@olistic](https://github.com/olistic)/[**jotason**](https://github.com/olistic/jotason)",
+              "🍬 Lightweight data-interchange language that adds syntactic sugar to JSON",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
   }
 }
