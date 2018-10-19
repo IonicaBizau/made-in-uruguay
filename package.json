@@ -58,7 +58,8 @@
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1670,6 +1671,357 @@
               "2",
               "[@skydiver](https://github.com/skydiver)/[**docker-octobercms**](https://github.com/skydiver/docker-octobercms)",
               "Docker development container for OctoberCMS",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2752",
+              "[@omab](https://github.com/omab)/[**python-social-auth**](https://github.com/omab/python-social-auth)",
+              "Social auth made simple",
+              "[:arrow_upper_right:](http://psa.matiasaguirre.net)"
+            ],
+            [
+              "2485",
+              "[@omab](https://github.com/omab)/[**django-social-auth**](https://github.com/omab/django-social-auth)",
+              "Django social authentication made simple",
+              "[:arrow_upper_right:](https://groups.google.com/group/django-social-auth)"
+            ],
+            [
+              "777",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**Dictionaries**](https://github.com/titoBouzout/Dictionaries)",
+              "Hunspell UTF8 dictionaries. These work with Sublime Text. [Spell check] ",
+              ""
+            ],
+            [
+              "437",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**Tag**](https://github.com/titoBouzout/Tag)",
+              "Collection of packages about HTML/XML tags.",
+              ""
+            ],
+            [
+              "279",
+              "[@andrix](https://github.com/andrix)/[**python-snappy**](https://github.com/andrix/python-snappy)",
+              "Python bindings for the snappy google library",
+              ""
+            ],
+            [
+              "271",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**BufferScroll**](https://github.com/titoBouzout/BufferScroll)",
+              "Remember, restore and sync scroll, bookmarks, marks, folds and cursors. keys: multiple columns one buffer, follow mode, split, screen, pages, synchronize vertical and typewriter scrolling",
+              ""
+            ],
+            [
+              "255",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**WordCount**](https://github.com/titoBouzout/WordCount)",
+              "Real-time Word, Char, Line and Page counter, in the status-bar for the document, line or selection. Sublime Text",
+              ""
+            ],
+            [
+              "244",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**SideBarGit**](https://github.com/titoBouzout/SideBarGit)",
+              "Add git commands to sidebar. Textual port of komodin extension for sublime text.",
+              ""
+            ],
+            [
+              "182",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**EncodingHelper**](https://github.com/titoBouzout/EncodingHelper)",
+              "Guess encoding of files, show in status bar, convert to UTF-8 from a variete of encodings..",
+              ""
+            ],
+            [
+              "153",
+              "[@narrowfail](https://github.com/narrowfail)/[**django-channels-chat**](https://github.com/narrowfail/django-channels-chat)",
+              "A simple Django-Channels web chat!",
+              ""
+            ],
+            [
+              "134",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**Open-Include**](https://github.com/titoBouzout/Open-Include)",
+              "Will open file paths found under the cursor with ALT+D",
+              ""
+            ],
+            [
+              "113",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**LineEndings**](https://github.com/titoBouzout/LineEndings)",
+              "On statusbar and on command palete.",
+              ""
+            ],
+            [
+              "71",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**SideBarFolders**](https://github.com/titoBouzout/SideBarFolders)",
+              "For when a project system is too much.",
+              ""
+            ],
+            [
+              "42",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**FindResultsApplyChan…**](https://github.com/titoBouzout/FindResultsApplyChanges)",
+              "Edit just there in the \"Find Results\" buffer, merge changes back to the files.",
+              ""
+            ],
+            [
+              "26",
+              "[@daedalus](https://github.com/daedalus)/[**bitcoin-recover-priv…**](https://github.com/daedalus/bitcoin-recover-privkey)",
+              "Proof of concept of bitcoin private key recovery using weak ECDSA signatures",
+              ""
+            ],
+            [
+              "26",
+              "[@gonz](https://github.com/gonz)/[**django-model-i18n**](https://github.com/gonz/django-model-i18n)",
+              "(No longer maintained, checkout forks) Model translations with a pluggable twist",
+              ""
+            ],
+            [
+              "24",
+              "[@omab](https://github.com/omab)/[**faces**](https://github.com/omab/faces)",
+              "Face detection and recognition",
+              ""
+            ],
+            [
+              "23",
+              "[@omab](https://github.com/omab)/[**psa-allauth**](https://github.com/omab/psa-allauth)",
+              "Django-Allauth flows implemented with python-social-auth",
+              ""
+            ],
+            [
+              "20",
+              "[@omab](https://github.com/omab)/[**psa-passwordless**](https://github.com/omab/psa-passwordless)",
+              "Passwordless Email Auth ",
+              ""
+            ],
+            [
+              "16",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**FakeDataGenerator**](https://github.com/titoBouzout/FakeDataGenerator)",
+              "Repeat the selected text N times, and/or also may generate Fake Data if you wish using the external library Faker.",
+              ""
+            ],
+            [
+              "12",
+              "[@git2samus](https://github.com/git2samus)/[**xpost-bot**](https://github.com/git2samus/xpost-bot)",
+              "Reddit bot to scan and repost submissions of interest to niche subreddits",
+              ""
+            ],
+            [
+              "12",
+              "[@omab](https://github.com/omab)/[**django-tcms**](https://github.com/omab/django-tcms)",
+              "My approach to a Django CMS",
+              ""
+            ],
+            [
+              "10",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**Camaleon**](https://github.com/titoBouzout/Camaleon)",
+              "Cycle chrome theme and colour schemes with F8",
+              ""
+            ],
+            [
+              "9",
+              "[@kalessin](https://github.com/kalessin)/[**PyLINQ**](https://github.com/kalessin/PyLINQ)",
+              "Python LINQ (Language Integrated Query) wrapper ",
+              ""
+            ],
+            [
+              "8",
+              "[@cmateu](https://github.com/cmateu)/[**PyMGC3**](https://github.com/cmateu/PyMGC3)",
+              "Python toolkit for mGC3 method",
+              ""
+            ],
+            [
+              "8",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**ClipboardCommands**](https://github.com/titoBouzout/ClipboardCommands)",
+              "Provides handy clipboard commands without keybindings.",
+              ""
+            ],
+            [
+              "8",
+              "[@dangra](https://github.com/dangra)/[**pymesos**](https://github.com/dangra/pymesos)",
+              "Pure python bindings useful to write Mesos frameworks",
+              ""
+            ],
+            [
+              "7",
+              "[@mixedCase](https://github.com/mixedCase)/[**kivymd**](https://github.com/mixedCase/kivymd)",
+              "MOVED TO GITLAB: https://gitlab.com/kivymd/KivyMD",
+              "[:arrow_upper_right:](https://gitlab.com/kivymd/KivyMD)"
+            ],
+            [
+              "7",
+              "[@daedalus](https://github.com/daedalus)/[**misc**](https://github.com/daedalus/misc)",
+              "misc scripts",
+              ""
+            ],
+            [
+              "5",
+              "[@msaizar](https://github.com/msaizar)/[**pf-admin**](https://github.com/msaizar/pf-admin)",
+              "Tool for managing a  Postfix/MySQL email system, based on http://workaround.org/articles/ispmail-e…",
+              "[:arrow_upper_right:](http://msaizar.com/pf-admin)"
+            ],
+            [
+              "5",
+              "[@juanpex](https://github.com/juanpex)/[**django-webfaction-co…**](https://github.com/juanpex/django-webfaction-commands)",
+              "Django application that provides commands to generate fast deploy",
+              ""
+            ],
+            [
+              "5",
+              "[@daedalus](https://github.com/daedalus)/[**fastBloomFilter**](https://github.com/daedalus/fastBloomFilter)",
+              "A pure, simple and fast pythonic bloom filter",
+              ""
+            ],
+            [
+              "5",
+              "[@omab](https://github.com/omab)/[**psa-recovery**](https://github.com/omab/psa-recovery)",
+              "psa email backend password recovery",
+              ""
+            ],
+            [
+              "4",
+              "[@httpdss](https://github.com/httpdss)/[**deam**](https://github.com/httpdss/deam)",
+              "Django External Apps Manager are custom commands for managing external applications",
+              ""
+            ],
+            [
+              "4",
+              "[@andrix](https://github.com/andrix)/[**usesthis-spider**](https://github.com/andrix/usesthis-spider)",
+              "Scrapy Spider to get the interviews of Uses this and they hardware / software info.",
+              ""
+            ],
+            [
+              "4",
+              "[@httpdss](https://github.com/httpdss)/[**agilito**](https://github.com/httpdss/agilito)",
+              "(git mirror of) Simple, web-based Agile / Scrum project management tool built in Django",
+              "[:arrow_upper_right:](http://code.google.com/p/agilito/)"
+            ],
+            [
+              "3",
+              "[@daedalus](https://github.com/daedalus)/[**bloomHIBP**](https://github.com/daedalus/bloomHIBP)",
+              "Bloom HIBP – check Have i been Pwnd with bloom filters in pure python",
+              ""
+            ],
+            [
+              "3",
+              "[@omab](https://github.com/omab)/[**fspotfs**](https://github.com/omab/fspotfs)",
+              "F-Spot photo manager FUSE filesystem",
+              ""
+            ],
+            [
+              "3",
+              "[@nagitsu](https://github.com/nagitsu)/[**imsearch**](https://github.com/nagitsu/imsearch)",
+              "Adding image metadata using Luminoth",
+              ""
+            ],
+            [
+              "3",
+              "[@cinemascop89](https://github.com/cinemascop89)/[**wanikani**](https://github.com/cinemascop89/wanikani)",
+              "a generator of wallpapers of your wanikani progress",
+              ""
+            ],
+            [
+              "3",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**SelectionsToFiles**](https://github.com/titoBouzout/SelectionsToFiles)",
+              "Save selections as new files..",
+              ""
+            ],
+            [
+              "3",
+              "[@nagitsu](https://github.com/nagitsu)/[**nabu**](https://github.com/nagitsu/nabu)",
+              "Platform for managing, training and evaluating word embeddings over a corpus",
+              ""
+            ],
+            [
+              "3",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**ePub**](https://github.com/titoBouzout/ePub)",
+              "Open epub files with Sublime Text for reading",
+              ""
+            ],
+            [
+              "2",
+              "[@cyberplant](https://github.com/cyberplant)/[**filehasher**](https://github.com/cyberplant/filehasher)",
+              "File hashing utility.",
+              ""
+            ],
+            [
+              "2",
+              "[@git2samus](https://github.com/git2samus)/[**tamarindo-web**](https://github.com/git2samus/tamarindo-web)",
+              "Tamarindo Web Organizer",
+              "[:arrow_upper_right:](http://tamarindo-web.appspot.com/)"
+            ],
+            [
+              "2",
+              "[@omab](https://github.com/omab)/[**psa-friendsinvite**](https://github.com/omab/psa-friendsinvite)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@omab](https://github.com/omab)/[**django-archiver**](https://github.com/omab/django-archiver)",
+              "Replicate database entries between configured databases",
+              "[:arrow_upper_right:](https://github.com/omab/django-archiver#readme)"
+            ],
+            [
+              "2",
+              "[@gonz](https://github.com/gonz)/[**slack-rekarma**](https://github.com/gonz/slack-rekarma)",
+              "Automatic Slack user karma based on reactions",
+              ""
+            ],
+            [
+              "2",
+              "[@omab](https://github.com/omab)/[**twitchess**](https://github.com/omab/twitchess)",
+              "Play chess against a Chess Engine on twitter",
+              ""
+            ],
+            [
+              "2",
+              "[@daedalus](https://github.com/daedalus)/[**3Dto2DRayCaster**](https://github.com/daedalus/3Dto2DRayCaster)",
+              "this is not a raytracer",
+              ""
+            ],
+            [
+              "2",
+              "[@daedalus](https://github.com/daedalus)/[**btcat**](https://github.com/daedalus/btcat)",
+              "btcat - download a torrent file from the network and output its contents to the standard output.",
+              ""
+            ],
+            [
+              "2",
+              "[@httpdss](https://github.com/httpdss)/[**queryutils**](https://github.com/httpdss/queryutils)",
+              "an almost mirror of django queryutils",
+              "[:arrow_upper_right:](http://www.ifpeople.net/news/2008/ifpeople-open-source-django-apps)"
+            ],
+            [
+              "2",
+              "[@juanpex](https://github.com/juanpex)/[**django-model-deploy**](https://github.com/juanpex/django-model-deploy)",
+              "Django application that facilitates the publication of data between environments such as development, testing and production.",
+              "[:arrow_upper_right:](http://juanpex.github.com/django-model-deploy/)"
+            ],
+            [
+              "2",
+              "[@omab](https://github.com/omab)/[**jocker**](https://github.com/omab/jocker)",
+              "FreeBSD Jail Definition and Management ala Docker",
+              ""
+            ],
+            [
+              "2",
+              "[@marcelor](https://github.com/marcelor)/[**django-autotest**](https://github.com/marcelor/django-autotest)",
+              "Continually runs tests based on files you've changed. ",
+              ""
+            ],
+            [
+              "2",
+              "[@titoBouzout](https://github.com/titoBouzout)/[**PreventFakeClones**](https://github.com/titoBouzout/PreventFakeClones)",
+              "Prevents opening the same file twice, if does not share a buffer (ie is not a clone/duplicate or cloned view/tab/file).",
               ""
             ]
           ]
