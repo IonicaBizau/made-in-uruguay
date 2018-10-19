@@ -50,7 +50,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -1074,6 +1075,27 @@
               "2",
               "[@guillecura](https://github.com/guillecura)/[**double-meat-hamburge…**](https://github.com/guillecura/double-meat-hamburger-icon)",
               "Double Meat Hamburger animated SVG icon",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "12",
+              "[@haldos](https://github.com/haldos)/[**edges**](https://github.com/haldos/edges)",
+              "Implementation of some classical edge detection algorithms; Roberts, Prewitt, Sobel, Haralick and Marr-Hildreth.",
               ""
             ]
           ]
